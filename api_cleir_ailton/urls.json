@@ -1,0 +1,16 @@
+{
+  "urls": [
+    {
+      "name": "programacao-avancada-backend",
+      "url": "http://localhost:5000"
+    }
+  ]
+}
+
+/*
+
+JSON: dados estruturados em formato de texto.
+Nesse caso, tal estrutura permite o 
+recebimento dos sites e urls digitados no formulário HTML. 
+
+*/
